@@ -12,5 +12,5 @@ Week N!
 **MX-5 Results**: Best lap: m:ss.hhh. Best finsh was Xth place out of a field of YY. Strength of Field was NNNN and I gained MM iRating.
 * **VRS GT Sprint**: Course - Layout. NN laps. Experience.  
 **VRS Results**: Best lap: m:ss.hhh. Best finsh was Xth place out of a field of YY. Strength of Field was NNNN and I gained MM iRating.
-* **IMSA**: Course - Layout. NN laps. Experience.
+* **IMSA**: Course - Layout. NN laps. Experience.  
 **IMSA Results**: Best lap: m:ss.hhh. Best finsh was Xth place out of a field of YY. Strength of Field was NNNN and I gained MM iRating.
