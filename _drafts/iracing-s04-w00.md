@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "iRacing 2021, Season 1, Week N"
-date:   2021-00-00 12:00:00 -0700
+date:   2021-00-00 00:00:00 -0700
 categories: [iRacing, simracing]
 ---
 Week N!
