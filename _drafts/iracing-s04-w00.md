@@ -8,9 +8,9 @@ Week N!
 
 * **Spec Racer Ford**: Course - Layout. NN laps. Experience.  
 **SRF Results**: Best lap: m:ss.hhh. Finshed Xth place out of a field of YY. Strength of Field was NNNN and I gained MM iRating.  
-* **Advanced MX-5 Cup**: Course - Layout. NN laps. Experience.  
+* **Advanced MX-5 Cup**: Course - Layout. 25 minutes. Experience.  
 **MX-5 Results**: Best lap: m:ss.hhh. Finshed Xth place out of a field of YY. Strength of Field was NNNN and I gained MM iRating.
-* **VRS GT Sprint**: Course - Layout. NN laps. Experience.  
+* **VRS GT Sprint**: Course - Layout. 40 minutes. Experience.  
 **VRS Results**: Best lap: m:ss.hhh. Finshed Xth place out of a field of YY. Strength of Field was NNNN and I gained MM iRating.
-* **IMSA**: Course - Layout. NN laps. Experience.  
+* **IMSA**: Course - Layout. 45 minutes. Experience.  
 **IMSA Results**: Best lap: m:ss.hhh. Finshed Xth place out of a field of YY. Strength of Field was NNNN and I gained MM iRating.
