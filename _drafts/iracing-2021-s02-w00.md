@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "iRacing 2021, Season 1, Week N"
+title:  "iRacing 2021, Season 2, Week N"
 date:   2021-00-00 00:00:00 -0700
 categories: [iRacing, simracing]
 ---
@@ -13,7 +13,5 @@ Ended the week at NNNN iRating and X.XX Safety Rating.
 **SRF Results**: Best lap: m:ss.hhh. Finshed Xth place out of a field of YY. Strength of Field was NNNN and I gained MM iRating.  
 * **Advanced MX-5 Cup**: [Course - Layout](https://members.iracing.com/membersite/member/EventResult.do?&subsessionid=). 25 minutes. Qualified Nth, ranked Mth. Experience.  
 **MX-5 Results**: Best lap: m:ss.hhh. Finshed Xth place out of a field of YY. Strength of Field was NNNN and I gained MM iRating.
-* **VRS GT Sprint**: [Course - Layout](https://members.iracing.com/membersite/member/EventResult.do?&subsessionid=). 40 minutes. Qualified Nth, ranked Mth. Experience.  
-**VRS Results**: Best lap: m:ss.hhh. Finshed Xth place out of a field of YY. Strength of Field was NNNN and I gained MM iRating.
-* **IMSA**: [Course - Layout](https://members.iracing.com/membersite/member/EventResult.do?&subsessionid=). 45 minutes. Qualified Nth, ranked Mth. Experience.  
+* **IMSA Michelin Pilot Challenge**: [Course - Layout](https://members.iracing.com/membersite/member/EventResult.do?&subsessionid=). 45 minutes. Qualified Nth, ranked Mth. Experience.  
 **IMSA Results**: Best lap: m:ss.hhh. Finshed Xth place out of a field of YY. Strength of Field was NNNN and I gained MM iRating.
